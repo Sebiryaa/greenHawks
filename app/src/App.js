@@ -3,7 +3,7 @@ import { Model } from "survey-core";
 import { Survey } from "survey-react-ui";
 import "survey-core/defaultV2.min.css";
 import "./App.css";
-import { json } from "./src/json";
+import { json } from "./json";
 
 function SurveyComponent() {
     const survey = new Model(json);
