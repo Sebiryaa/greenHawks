@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sebiryaa.github.io/static/css/main.aee1425e.css",
-    "main.js": "/sebiryaa.github.io/static/js/main.e6a213d2.js",
-    "static/js/787.c1112931.chunk.js": "/sebiryaa.github.io/static/js/787.c1112931.chunk.js",
-    "index.html": "/sebiryaa.github.io/index.html",
-    "main.aee1425e.css.map": "/sebiryaa.github.io/static/css/main.aee1425e.css.map",
-    "main.e6a213d2.js.map": "/sebiryaa.github.io/static/js/main.e6a213d2.js.map",
-    "787.c1112931.chunk.js.map": "/sebiryaa.github.io/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/static/css/main.aee1425e.css",
+    "main.js": "/static/js/main.18daedee.js",
+    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "index.html": "/index.html",
+    "main.aee1425e.css.map": "/static/css/main.aee1425e.css.map",
+    "main.18daedee.js.map": "/static/js/main.18daedee.js.map",
+    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aee1425e.css",
-    "static/js/main.e6a213d2.js"
+    "static/js/main.18daedee.js"
   ]
 }
